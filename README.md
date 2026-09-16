@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://t.me/Fayziddin_B"><img src="https://img.shields.io/badge/Telegram-@Fayziddin__B-26A5E4?logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://www.linkedin.com/in/fayziddin2000"><img src="https://img.shields.io/badge/LinkedIn-fayziddin2000-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ruslanmedia.uz@gmail.com"><img src="https://img.shields.io/badge/Email-boriyevfayz%40gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:boriyevfayz@gmail.com"><img src="https://img.shields.io/badge/Email-boriyevfayz%40gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Open_to-Office_(Qarshi)_/_Remote-2EA44F" alt="Open to work" />
 </p>
 
